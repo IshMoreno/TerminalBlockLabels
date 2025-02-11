@@ -21,7 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="FileReaders\" />
     <Folder Include="Models\" />
     <Folder Include="Resources\" />
     <Folder Include="Properties\" />
